@@ -1,3 +1,9 @@
 /.settings
 /.buildpath
 /.project
+!/var/cache
+!/var/cache/index.html
+/var/cache/*
+!/var/logs
+!/var/logs/index.html
+/var/logs/*
